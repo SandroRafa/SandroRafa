@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de análise e desenvolvimento de sistemas<br>👯 Estou a procura de conhecimento <br> 💬em busca de vaga de dev junior ou estagiário.<br> 🤝<br>
+🔭 Sou estudante de análise e desenvolvimento de sistemas<br>👯 Estou a procura de conhecimento <br> 💬em busca de vaga de dev junior ou estagio.<br> 🤝<br>
 
 
 ## 🌐 Socials:
